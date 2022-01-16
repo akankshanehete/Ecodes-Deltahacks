@@ -15,6 +15,12 @@ export default class App extends React.Component {
         })
     }
 
+    increment2 = () => {
+        this.setState(p => {
+            return { count: p.count + 20 }
+        })
+    }
+
     decrement = () => {
         this.setState(p => {
             return { count: p.count - 50 }
@@ -32,14 +38,14 @@ export default class App extends React.Component {
 
                 <Text style={styles.largeText}>{this.state.count}</Text>
                 <TouchableOpacity onPress={this.increment} style={[styles.box, styles.elevation]}>
-                    <Text style={styles.text5}>You took the bus!</Text>
+                    <Text style={styles.text5}>You brought a reuseable straw!</Text>
                     <Text style={styles.text6}>Points: 50</Text>
                     <Text style={styles.text7}>Tap to claim points reward!</Text>
                 </TouchableOpacity>
 
-                <TouchableOpacity onPress={this.increment} style={[styles.box, styles.elevation]}>
+                <TouchableOpacity onPress={this.increment2} style={[styles.box, styles.elevation]}>
                     <Text style={styles.text5}>You didn't drive this week!</Text>
-                    <Text style={styles.text6}>Points: 50</Text>
+                    <Text style={styles.text6}>Points: 20</Text>
                     <Text style={styles.text7}>Tap to claim points reward!</Text>
                 </TouchableOpacity>
 
@@ -49,7 +55,7 @@ export default class App extends React.Component {
                 </TouchableOpacity>
 
                 <TouchableOpacity style={[styles.box, styles.elevation]}>
-                    <Text style={styles.text5}>You brought a reuseable straw!</Text>
+                    <Text style={styles.text5}>You didn't drive this week!</Text>
                     <Text style={styles.text6}>Points: CLAIMED!</Text>
                 </TouchableOpacity>
 
