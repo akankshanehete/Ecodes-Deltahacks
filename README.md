@@ -1,6 +1,6 @@
 # Ecodes-Deltahacks
 
-This app is a modern way to embed an eco-friendly lifestyle into people to take care of our environment. A lot of the time, we need motivation to do what’s right and so we developed an app that improves our human lifestyle by being rewarded with every eco-friendly action we take. There are very small but impactful ways to save the plant like, using reusable bags, shopping at thrift stores, or taking bus/carpooling and each time someone does so this app will reward them! Simply scanning a QR code at every location where you can be environmentally friendly will enable you to claim points that can be converted into discounts, coupons or gift cards to small businesses!
+Ecodes rewards you for every sustainable decision you make. Some examples are: shopping at sustainable partner businesses, taking the local transit, and eating at sustainable restaurants. Simply scanning an Ecode at these locations will allow you to claim EcoPoints that can be converted into discounts, coupons or gift cards to eco-conscious businesses. Ecodes also sends users text-based reminders when acting sustainably is especially convenient (ex. take the bus when the weather is unsafe for driving). Furthermore, sustainable businesses also get free advertising, so it's a win-win for both parties! See the demo https://drive.google.com/file/d/1suT7tPila3rz4PSmoyl42G5gyAwrC_vu/view.
 
 ![image1](https://user-images.githubusercontent.com/47333291/149666818-251bde5b-e5e9-4dfb-8ebe-24b2b4aa88c1.jpeg)
 
