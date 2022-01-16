@@ -4,6 +4,6 @@ Ecodes rewards you for every sustainable decision you make. Some examples are: s
 
 ![image1](https://user-images.githubusercontent.com/47333291/149666818-251bde5b-e5e9-4dfb-8ebe-24b2b4aa88c1.jpeg)
 
-Download the Expo app or open your phone camera/google lens and try it out! Note: Not a full functioning app, just a prototype demo :)
+Download the Expo Go app and try it out! Note: Not a full functioning app, just a prototype demo :)
 
 <img width="288" alt="ecodes" src="https://user-images.githubusercontent.com/47333291/149667693-92a4fc1b-5f15-4e81-990b-d576714bfc65.png">
